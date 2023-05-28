@@ -1,0 +1,19 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "exportall.config.folderListener": [
+        "/libs/common/entities",
+        "/libs/common/dtos",
+        "/libs/common/interceptors",
+        "/libs/common/interfaces",
+        "/libs/common/middleware",
+        "/libs/common/utils",
+        "/libs/core/auth/guards",
+        "/libs/core/auth/strategies",
+        "/libs/core/auth",
+        "/libs/core/shared/base",
+        "/libs/core/shared/preferences",
+        "/libs/core/shared/user"
+    ]
+}
